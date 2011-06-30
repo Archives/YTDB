@@ -1,3 +1,9 @@
+Update 603_(11700)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
+
 Update 602_(11630) "Ferres Spotile"
 + all fixes from forum
 + fix spawn
