@@ -1,3 +1,16 @@
+Update 607_(11789)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
+
+Update 606_(11781)
++ all fixes from forum
++ fix spawn
++ quest scripts
++ mob's gossip menus
++ fix trainer NPC
+
 Update 605_(11765)
 + all fixes from forum
 + fix spawn
